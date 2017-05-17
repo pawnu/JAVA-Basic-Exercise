@@ -1,0 +1,303 @@
+[
+ {
+   "FIELD1": "George Washington",
+   "FIELD2": "  Feb 22 1732",
+   "FIELD3": "    Westmoreland Co. Va.",
+   "FIELD4": "   Dec 14 1799",
+   "FIELD5": "    Mount Vernon Va."
+ },
+ {
+   "FIELD1": "John Adams",
+   "FIELD2": " Oct 30 1735",
+   "FIELD3": "    Quincy Mass.",
+   "FIELD4": "   July 4 1826",
+   "FIELD5": "    Quincy Mass."
+ },
+ {
+   "FIELD1": "Thomas Jefferson",
+   "FIELD2": "   Apr 13 1743",
+   "FIELD3": "    Albemarle Co. Va.",
+   "FIELD4": "  July 4 1826",
+   "FIELD5": "    Albemarle Co. Va."
+ },
+ {
+   "FIELD1": "James Madison",
+   "FIELD2": "  Mar 16 1751",
+   "FIELD3": "    Port Conway Va.",
+   "FIELD4": "    June 28 1836",
+   "FIELD5": "   Orange Co. Va."
+ },
+ {
+   "FIELD1": "James Monroe",
+   "FIELD2": "   Apr 28 1758",
+   "FIELD3": "    Westmoreland Co. Va.",
+   "FIELD4": "   July 4 1831",
+   "FIELD5": "    New York New York"
+ },
+ {
+   "FIELD1": "John Quincy Adams",
+   "FIELD2": "  July 11 1767",
+   "FIELD3": "   Quincy Mass.",
+   "FIELD4": "   Feb 23 1848",
+   "FIELD5": "    Washington D.C."
+ },
+ {
+   "FIELD1": "Andrew Jackson",
+   "FIELD2": " Mar 15 1767",
+   "FIELD3": "    Lancaster Co. S.C.",
+   "FIELD4": " June 8 1845",
+   "FIELD5": "    Nashville Tennessee"
+ },
+ {
+   "FIELD1": "Martin Van Buren",
+   "FIELD2": "   Dec 5 1782",
+   "FIELD3": " Kinderhook New York",
+   "FIELD4": "    July 24 1862",
+   "FIELD5": "   Kinderhook New York"
+ },
+ {
+   "FIELD1": "William Henry Harrison",
+   "FIELD2": " Feb 9 1773",
+   "FIELD3": " Charles City Co. Va.",
+   "FIELD4": "   Apr 4 1841",
+   "FIELD5": " Washington D.C."
+ },
+ {
+   "FIELD1": "John Tyler",
+   "FIELD2": " Mar 29 1790",
+   "FIELD3": "    Charles City Co. Va.",
+   "FIELD4": "   Jan 18 1862",
+   "FIELD5": "    Richmond Va."
+ },
+ {
+   "FIELD1": "James K. Polk",
+   "FIELD2": "  Nov 2 1795",
+   "FIELD3": " Mecklenburg Co. N.C.",
+   "FIELD4": "   June 15 1849",
+   "FIELD5": "   Nashville Tennessee"
+ },
+ {
+   "FIELD1": "Zachary Taylor",
+   "FIELD2": " Nov 24 1784",
+   "FIELD3": "    Orange County Va.",
+   "FIELD4": "  July 9 1850",
+   "FIELD5": "    Washington D.C"
+ },
+ {
+   "FIELD1": "Millard Fillmore",
+   "FIELD2": "   Jan 7 1800",
+   "FIELD3": " Cayuga Co. New York",
+   "FIELD4": "    Mar 8 1874",
+   "FIELD5": " Buffalo New York"
+ },
+ {
+   "FIELD1": "Franklin Pierce",
+   "FIELD2": "    Nov 23 1804",
+   "FIELD3": "    Hillsborough N.H.",
+   "FIELD4": "  Oct 8 1869",
+   "FIELD5": " Concord New Hamp."
+ },
+ {
+   "FIELD1": "James Buchanan",
+   "FIELD2": " Apr 23 1791",
+   "FIELD3": "    Cove Gap Pa.",
+   "FIELD4": "   June 1 1868",
+   "FIELD5": "    Lancaster Pa."
+ },
+ {
+   "FIELD1": "Abraham Lincoln",
+   "FIELD2": "    Feb 12 1809",
+   "FIELD3": "    LaRue Co. Kentucky",
+   "FIELD4": " Apr 15 1865",
+   "FIELD5": "    Washington D.C."
+ },
+ {
+   "FIELD1": "Andrew Johnson",
+   "FIELD2": " Dec 29 1808",
+   "FIELD3": "    Raleigh North Carolina",
+   "FIELD4": " July 31 1875",
+   "FIELD5": "   Elizabethton Tenn."
+ },
+ {
+   "FIELD1": "Ulysses S. Grant",
+   "FIELD2": "   Apr 27 1822",
+   "FIELD3": "    Point Pleasant Ohio",
+   "FIELD4": "    July 23 1885",
+   "FIELD5": "   Wilton New York"
+ },
+ {
+   "FIELD1": "Rutherford B. Hayes",
+   "FIELD2": "    Oct 4 1822",
+   "FIELD3": " Delaware Ohio",
+   "FIELD4": "  Jan 17 1893",
+   "FIELD5": "    Fremont Ohio"
+ },
+ {
+   "FIELD1": "James A. Garfield",
+   "FIELD2": "  Nov 19 1831",
+   "FIELD3": "    Cuyahoga Co. Ohio",
+   "FIELD4": "  Sep 19 1881",
+   "FIELD5": "    Elberon New Jersey"
+ },
+ {
+   "FIELD1": "Chester Arthur",
+   "FIELD2": " Oct 5 1829",
+   "FIELD3": " Fairfield Vermont",
+   "FIELD4": "  Nov 18 1886",
+   "FIELD5": "    New York New York"
+ },
+ {
+   "FIELD1": "Grover Cleveland",
+   "FIELD2": "   Mar 18 1837",
+   "FIELD3": "    Caldwell New Jersey",
+   "FIELD4": "    June 24 1908",
+   "FIELD5": "   Princeton New Jersey"
+ },
+ {
+   "FIELD1": "Benjamin Harrison",
+   "FIELD2": "  Aug 20 1833",
+   "FIELD3": "    North Bend Ohio",
+   "FIELD4": "    Mar 13 1901",
+   "FIELD5": "    Indianapolis Indiana"
+ },
+ {
+   "FIELD1": "William McKinley",
+   "FIELD2": "   Jan 29 1843",
+   "FIELD3": "    Niles Ohio",
+   "FIELD4": " Sep 14 1901",
+   "FIELD5": "    Buffalo New York"
+ },
+ {
+   "FIELD1": "Theodore Roosevelt",
+   "FIELD2": " Oct 27 1858",
+   "FIELD3": "    New York New York",
+   "FIELD4": "  Jan 6 1919",
+   "FIELD5": " Oyster Bay New York"
+ },
+ {
+   "FIELD1": "William Howard Taft",
+   "FIELD2": "    Sep 15 1857",
+   "FIELD3": "    Cincinnati Ohio",
+   "FIELD4": "    Mar 8 1930",
+   "FIELD5": " Washington D.C."
+ },
+ {
+   "FIELD1": "Woodrow Wilson",
+   "FIELD2": " Dec 28 1856",
+   "FIELD3": "    Staunton Virginia",
+   "FIELD4": "  Feb 3 1924",
+   "FIELD5": " Washington D.C."
+ },
+ {
+   "FIELD1": "Warren G. Harding",
+   "FIELD2": "  Nov 2 1865",
+   "FIELD3": " Morrow County Ohio",
+   "FIELD4": " Aug 2 1923",
+   "FIELD5": " San Francisco Cal."
+ },
+ {
+   "FIELD1": "Calvin Coolidge",
+   "FIELD2": "    July 4 1872",
+   "FIELD3": "    Plymouth Vermont",
+   "FIELD4": "   Jan 5 1933",
+   "FIELD5": " Northampton Mass."
+ },
+ {
+   "FIELD1": "Herbert Hoover",
+   "FIELD2": " Aug 10 1874",
+   "FIELD3": "    West Branch Iowa",
+   "FIELD4": "   Oct 20 1964",
+   "FIELD5": "    New York New York"
+ },
+ {
+   "FIELD1": "Franklin Roosevelt",
+   "FIELD2": " Jan 30 1882",
+   "FIELD3": "    Hyde Park New York",
+   "FIELD4": " Apr 12 1945",
+   "FIELD5": "    Warm Springs Georgia"
+ },
+ {
+   "FIELD1": "Harry S. Truman",
+   "FIELD2": "    May 8 1884",
+   "FIELD3": " Lamar Missouri",
+   "FIELD4": " Dec 26 1972",
+   "FIELD5": "    Kansas City Missouri"
+ },
+ {
+   "FIELD1": "Dwight Eisenhower",
+   "FIELD2": "  Oct 14 1890",
+   "FIELD3": "    Denison Texas",
+   "FIELD4": "  Mar 28 1969",
+   "FIELD5": "    Washington D.C."
+ },
+ {
+   "FIELD1": "John F. Kennedy",
+   "FIELD2": "    May 29 1917",
+   "FIELD3": "    Brookline Mass.",
+   "FIELD4": "    Nov 22 1963",
+   "FIELD5": "    Dallas Texas"
+ },
+ {
+   "FIELD1": "Lyndon B. Johnson",
+   "FIELD2": "  Aug 27 1908",
+   "FIELD3": "    Gillespie Co. Texas",
+   "FIELD4": "    Jan 22 1973",
+   "FIELD5": "    Gillespie Co. Texas"
+ },
+ {
+   "FIELD1": "Richard Nixon",
+   "FIELD2": "  Jan 9 1913",
+   "FIELD3": " Yorba Linda Cal.",
+   "FIELD4": "   Apr 22 1994",
+   "FIELD5": "    New York New York"
+ },
+ {
+   "FIELD1": "Gerald Ford",
+   "FIELD2": "    July 14 1913",
+   "FIELD3": "   Omaha Nebraska",
+   "FIELD4": " Dec 26 2006",
+   "FIELD5": "    Rancho Mirage Cal."
+ },
+ {
+   "FIELD1": "Jimmy Carter",
+   "FIELD2": "   Oct 1 1924",
+   "FIELD3": " Plains Georgia",
+   "FIELD4": " ",
+   "FIELD5": "   "
+ },
+ {
+   "FIELD1": "Ronald Reagan",
+   "FIELD2": "  Feb 6 1911",
+   "FIELD3": " Tampico Illinois",
+   "FIELD4": "   June 5 2004",
+   "FIELD5": "    Los Angeles Cal."
+ },
+ {
+   "FIELD1": "George Bush",
+   "FIELD2": "    June 12 1924",
+   "FIELD3": "   Milton Mass.",
+   "FIELD4": "   ",
+   "FIELD5": "   "
+ },
+ {
+   "FIELD1": "Bill Clinton",
+   "FIELD2": "   Aug 19 1946",
+   "FIELD3": "    Hope Arkansas",
+   "FIELD4": "  ",
+   "FIELD5": "   "
+ },
+ {
+   "FIELD1": "George W. Bush",
+   "FIELD2": " July 6 1946",
+   "FIELD3": "    New Haven Conn.",
+   "FIELD4": "    ",
+   "FIELD5": "   "
+ },
+ {
+   "FIELD1": "Barack Obama",
+   "FIELD2": "   Aug 4 1961",
+   "FIELD3": " Honolulu Hawaii",
+   "FIELD4": "    ",
+   "FIELD5": ""
+ }
+]
